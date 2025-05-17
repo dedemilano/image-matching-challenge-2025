@@ -1,0 +1,8 @@
+pandas
+torch 
+transformers
+torchvision
+xformers
+torchaudio 
+numpy
+matplotlib
